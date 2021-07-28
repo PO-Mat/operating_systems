@@ -1,0 +1,4 @@
+One of the operating systems primary functions is to create a GUI, graphical user interface, for the the user.
+The GUI is what most people think of when they think of different operating systems, it is what you see and interact with when using the system.
+Without the GUI all the user commands would have to be input into the command line in order to be run.
+The GUI allows for ease of access and use for the user to perform almost all commands.
