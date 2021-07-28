@@ -7,3 +7,7 @@ Another primary function of the operating system is memory management.
 The operating system manages the primary memory of the computer and keeps track of the which bytes are addressed by what programs.
 Additionally, the operating system keeps track of how long each byte has been addressed to the program.
 Finally, it addresses and de-addresses additional bytes to programs when requested.
+
+The operating system is also responsible for device management.
+It keeps track of all connected devices and their corresponding drivers.
+Also, it manages the allocation and de-allocation of devices to requesting processes.
